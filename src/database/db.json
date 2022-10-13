@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Ruchita Sharma",
+      "userName": "2010992064",
+      "email": "ruchita123.n@gmail.com",
+      "phone": "38/40",
+      "id": 1
+    },
+    {
+      "name": "Yashika Thakur",
+      "userName": "2010992012",
+      "email": "yashika123@gmail.com",
+      "phone": "37/40",
+      "id": 2
+    },
+    {
+      "name": "Sejal Kashyap",
+      "userName": "2010992090",
+      "email": "sejal123kumarin@gmail.com",
+      "phone": "38/40",
+      "id": 3
+    },
+    {
+      "name": "Shreya Garg",
+      "userName": "2010992035",
+      "email": "shreya123@gmail.com",
+      "phone": "38/40",
+      "id": 4
+    },
+    {
+      "name": "Sammridhi Ojha",
+      "userName": "2010992092",
+      "email": "ojha123@gmail.com",
+      "phone": "37/40",
+      "id": 5
+    }
+  ]
+}
